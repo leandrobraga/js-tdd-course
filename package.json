@@ -1,0 +1,8 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD",
+  "main": "index.js",
+  "author": "Leandro Braga <leandro.quadros@gmail.com>",
+  "license": "MIT"
+}
